@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 518e11598a86e2842ad077196766a27b
+timeCreated: 1469240270
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cloud: {instanceID: 0}
+  - one: {fileID: 21300000, guid: b1781761ea7f52340ba2f8ec55e07b17, type: 3}
+  - two: {fileID: 21300002, guid: b1781761ea7f52340ba2f8ec55e07b17, type: 3}
+  - three: {fileID: 21300004, guid: b1781761ea7f52340ba2f8ec55e07b17, type: 3}
+  - oneRain: {fileID: 21300000, guid: 56b1a25bd7042674ba09c523fb4e0339, type: 3}
+  - twoRain: {fileID: 21300002, guid: 56b1a25bd7042674ba09c523fb4e0339, type: 3}
+  - threeRain: {fileID: 21300004, guid: 56b1a25bd7042674ba09c523fb4e0339, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

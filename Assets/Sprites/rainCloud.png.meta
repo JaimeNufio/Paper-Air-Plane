@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 56b1a25bd7042674ba09c523fb4e0339
+timeCreated: 1469240241
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rainCloud_0
+    21300002: rainCloud_1
+    21300004: rainCloud_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rainCloud_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 561
+        width: 445
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 14, w: 0}
+      outline:
+      - - {x: 145.5, y: -108}
+        - {x: 173.5, y: -97}
+        - {x: 194.5, y: -79}
+        - {x: 206.5, y: -51}
+        - {x: 206.5, y: -13}
+        - {x: 199.5, y: 9}
+        - {x: 130.5, y: 91}
+        - {x: 102.5, y: 103}
+        - {x: 78.5, y: 107}
+        - {x: 30.5, y: 107}
+        - {x: 1.5, y: 89}
+        - {x: -49.5, y: 102}
+        - {x: -92.5, y: 96}
+        - {x: -127.5, y: 68}
+        - {x: -171.5, y: 62}
+        - {x: -194.5, y: 44}
+        - {x: -214.5, y: 13}
+        - {x: -216.5, y: -1}
+        - {x: -216.5, y: -24}
+        - {x: -211.5, y: -46}
+        - {x: -192.5, y: -73}
+        - {x: -162.5, y: -91}
+        - {x: -90.5, y: -107}
+        - {x: -76.5, y: -109}
+        - {x: -34.5, y: -109}
+        - {x: -22.5, y: -108}
+        - {x: 36.5, y: -106}
+        - {x: 59.5, y: -101}
+        - {x: 120.5, y: -108}
+    - name: rainCloud_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 287
+        width: 436
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 150, y: -88}
+        - {x: 184, y: -76}
+        - {x: 203, y: -57}
+        - {x: 217, y: -37}
+        - {x: 217, y: 14}
+        - {x: 210, y: 30}
+        - {x: 188, y: 55}
+        - {x: 154, y: 73}
+        - {x: 137, y: 100}
+        - {x: 101, y: 118}
+        - {x: 66, y: 124}
+        - {x: 24, y: 118}
+        - {x: -21, y: 125}
+        - {x: -63, y: 125}
+        - {x: -83, y: 122}
+        - {x: -105, y: 106}
+        - {x: -119, y: 86}
+        - {x: -130, y: 60}
+        - {x: -149, y: 62}
+        - {x: -181, y: 52}
+        - {x: -204, y: 32}
+        - {x: -216, y: 2}
+        - {x: -216, y: -35}
+        - {x: -207, y: -59}
+        - {x: -184, y: -86}
+        - {x: -124, y: -102}
+        - {x: -84, y: -112}
+        - {x: -57, y: -126}
+        - {x: -44, y: -127}
+        - {x: 6, y: -127}
+        - {x: 38, y: -109}
+        - {x: 87, y: -108}
+        - {x: 124, y: -90}
+    - name: rainCloud_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 462
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169, y: -105}
+        - {x: 197, y: -91}
+        - {x: 223, y: -63}
+        - {x: 230, y: -44}
+        - {x: 230, y: -7}
+        - {x: 221, y: 18}
+        - {x: 206, y: 34}
+        - {x: 180, y: 51}
+        - {x: 138, y: 59}
+        - {x: 117, y: 80}
+        - {x: 82, y: 99}
+        - {x: 47, y: 103}
+        - {x: 13, y: 101}
+        - {x: -48, y: 113}
+        - {x: -102, y: 119}
+        - {x: -147, y: 119}
+        - {x: -181, y: 101}
+        - {x: -197, y: 82}
+        - {x: -209, y: 36}
+        - {x: -222, y: 18}
+        - {x: -230, y: -4}
+        - {x: -230, y: -45}
+        - {x: -220, y: -65}
+        - {x: -199, y: -85}
+        - {x: -179, y: -96}
+        - {x: -137, y: -105}
+        - {x: -80, y: -107}
+        - {x: -33, y: -116}
+        - {x: 0, y: -120}
+        - {x: 30, y: -120}
+        - {x: 51, y: -114}
+        - {x: 89, y: -111}
+        - {x: 113, y: -99}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
